@@ -39,7 +39,7 @@ Initial repository structure: README.md, LICENSE, CHANGELOG.md
 (to fill in)
 
 ## Licence
-[CC-BY-SA-4.0](LICENCE)
+[CC-0](LICENCE)
 
 ## Credits
 Gianluca Petrosillo: (https://orcid.org/0009-0002-2249-1894)
