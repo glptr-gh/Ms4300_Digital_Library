@@ -6,4 +6,4 @@ This Directory is the main destination for all the datas produced during the res
 - [XML directory](./XML/): this directory will be used for the transcriptions of selected documents, written in '''XML-TEI''' language;
 - [RDF directory](./RDF/): this is the place where all the files for the LODs will be stored;
 - [Images directory](./Imgs/): mostly in '''.jpg''', all the images of the project will be put inside this directory.
-- [IIIF_directory](./IIIF): this directory will be used mainly to store the manifests and the tiles of the photos of the documents.
+- [IIIF_directory](./IIIF): this directory will be used mainly to store the manifests and the tiles in '''.tiff''' of the photos of the documents.
