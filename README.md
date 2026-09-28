@@ -22,7 +22,7 @@ The main sources of this project are the documents of the archive called MS4300 
 ## Changelog
 Available in [changelog](https://github.com/glptr-gh/Ms4300_Digital_Library/blob/main/docs/changelog.md)
 
-## Licence
+## License
 [CC0 1.0 Universal](https://github.com/glptr-gh/Ms4300_Digital_Library/blob/main/LICENSE)
 
 ## Credits
