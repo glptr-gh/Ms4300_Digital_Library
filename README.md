@@ -23,7 +23,7 @@ The main sources of this project are the documents of the archive called MS4300 
 Available in [changelog](https://github.com/glptr-gh/Ms4300_Digital_Library/blob/main/docs/changelog.md)
 
 ## Licence
-[CC0 1.0 Universal](LICENCE)
+[CC0 1.0 Universal](https://github.com/glptr-gh/Ms4300_Digital_Library/blob/main/LICENSE)
 
 ## Credits
 Gianluca Petrosillo: (https://orcid.org/0009-0002-2249-1894)
