@@ -20,7 +20,7 @@ The main sources of this project are the documents of the archive called MS4300 
 - IIIF
 
 ## Changelog
-Available in [changelog](changelog) repo
+Available in [changelog]([changelog](https://github.com/glptr-gh/Ms4300_Digital_Library/blob/main/docs/changelog.md))
 
 ## Licence
 [CC0 1.0 Universal](LICENCE)
