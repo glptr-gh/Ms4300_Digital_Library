@@ -20,23 +20,7 @@ The main sources of this project are the documents of the archive called MS4300 
 - IIIF
 
 ## Changelog
-All notable changes to this project are documented in this file.
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
-
-[Unreleased]
-
-### Added
-- Initial repository structure: README.md, LICENSE, CHANGELOG.md
-- [Data directory], with a README describing its intended contents (tables, images, manifests, TEI transcriptions)
-- [Scripts directory], with a README describing the image-processing pipeline, the structure of the HTML script, etc.
-- [Docs directory], with a README describing its intended contents (methodology, licenses, documentation for library staff)
-
-### Fixed
-(to fill in)
-
-
-### Changed
-(to fill in)
+Available in [changelog](changelog) repo
 
 ## Licence
 [CC0 1.0 Universal](LICENCE)
