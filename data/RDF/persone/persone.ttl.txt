@@ -1,0 +1,27 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <http://schema.org/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix aat: <http://vocab.getty.edu/page/aat/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix bio: <http://purl.org/vocab/bio/0.1/> .
+@prefix marriage: <https://glptr-gh.github.io/Ms4300/data/matrimoni/> .
+@prefix person: <https://glptr-gh.github.io/Ms4300/data/persone/> .
+@prefix coat: <https://glptr-gh.github.io/Ms4300/data/images/stemmi/> .
+@prefix potrait: <https://glptr-gh.github.io/Ms4300/data/images/dipinti/> .
+
+person:ITIE_001 rdf:type schema:Person ;
+    bio:father <https://man8rove.com/fr/profil/2pg246xoa-guyot-pot> ;
+    bio:mother <https://man8rove.com/fr/profil/djs566xoa-marie-de-hangest> ;
+    bio:event marriage:ITIE_M001 ;
+    schema:image coat:Pot.jpg .
+coat:Pot.jpg dct:source <https://man8rove.com/fr/blason/k6trsf6-pot> .
+
+person:ITIE_002 rdf:type schema:Person ;
+    bio:father <https://man8rove.com/fr/profil/xava4ipzi-guillaume-stuart> ;
+    bio:mother <https://man8rove.com/fr/profil/yanwv6j7-claude-laing> ;
+    bio:event marriage:ITIE_M001 ;
+    schema:image coat:Stuart.jpg .
+coat:Stuart.jpg dct:source <https://man8rove.com/fr/blason/s45er43-stewart> .
+
+person:ITIE_003 rdf:type schema:Person
+    bio:
