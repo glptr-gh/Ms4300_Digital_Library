@@ -4,10 +4,10 @@
 @prefix aat: <http://vocab.getty.edu/page/aat/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix bio: <http://purl.org/vocab/bio/0.1/> .
-@prefix marriage: <https://glptr-gh.github.io/Ms4300/data/RDF/matrimoni/> .
-@prefix person: <https://glptr-gh.github.io/Ms4300/data/RDF/persone/> .
-@prefix coat: <https://glptr-gh.github.io/Ms4300/data/images/stemmi/> .
-@prefix potrait: <https://glptr-gh.github.io/Ms4300/data/images/dipinti/> .
+@prefix marriage: <https://glptr-gh.github.io/Ms4300_Digital_Library/data/RDF/matrimoni/> .
+@prefix person: <https://glptr-gh.github.io/Ms4300_Digital_Library/data/RDF/persone/> .
+@prefix coat: <https://glptr-gh.github.io/Ms4300_Digital_Library/data/images/stemmi/> .
+@prefix potrait: <https://glptr-gh.github.io/Ms4300_Digital_Library/data/images/dipinti/> .
 
 person:ITIE_001 rdf:type schema:Person ;
     bio:father <https://man8rove.com/fr/profil/2pg246xoa-guyot-pot> ;
