@@ -13,15 +13,15 @@ person:ITIE_001 rdf:type schema:Person ;
     bio:father <https://man8rove.com/fr/profil/2pg246xoa-guyot-pot> ;
     bio:mother <https://man8rove.com/fr/profil/djs566xoa-marie-de-hangest> ;
     bio:event marriage:ITIE_M001 ;
-    schema:image coat:Pot.jpg .
-coat:Pot.jpg dct:source <https://man8rove.com/fr/blason/k6trsf6-pot> .
+    schema:image coat:Pot.png .
+coat:Pot.png dct:source <https://man8rove.com/fr/blason/k6trsf6-pot> .
 
 person:ITIE_002 rdf:type schema:Person ;
     bio:father <https://man8rove.com/fr/profil/xava4ipzi-guillaume-stuart> ;
     bio:mother <https://man8rove.com/fr/profil/yanwv6j7-claude-laing> ;
     bio:event marriage:ITIE_M001 ;
-    schema:image coat:Stuart.jpg .
-coat:Stuart.jpg dct:source <https://man8rove.com/fr/blason/s45er43-stewart> .
+    schema:image coat:Stuart.png .
+coat:Stuart.png dct:source <https://man8rove.com/fr/blason/s45er43-stewart> .
 
 person:ITIE_003 rdf:type schema:Person
     bio:
