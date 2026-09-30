@@ -1,0 +1,532 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <http://schema.org/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix aat: <http://vocab.getty.edu/page/aat/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix bio: <http://purl.org/vocab/bio/0.1/> .
+@prefix marriage: <https://glptr-gh.github.io/Ms4300/matrimoni/> .
+@prefix person: <https://glptr-gh.github.io/Ms4300/persone/> .
+
+marriage:ITIE_M001 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_001 ;
+    bio:partner person:ITIE_002 ;
+    bio:date "1596" .
+
+marriage:ITIE_M002 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_004 ;
+    bio:partner person:ITIE_005 ;
+    bio:date "1586" .
+
+marriage:ITIE_M003 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_006 ;
+    bio:partner person:ITIE_007 ;
+    bio:date "1632" .
+
+marriage:ITIE_M004 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_009 ;
+    bio:partner <https://man8rove.com/fr/profile/t9alcs8d7-gasparde-de-la-chatre> ;
+    bio:date "1603" .
+
+marriage:ITIE_M005 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_010 ;
+    bio:partner person:ITIE_144 ;
+    bio:date "1654" .
+
+marriage:ITIE_M006 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_011 ;
+    bio:partner person:ITIE_065 ;
+    bio:date "1667" .
+
+marriage:ITIE_M007 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_012 ;
+    bio:partner person:ITIE_013 ;
+    bio:date "1600" .
+
+marriage:ITIE_M008 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_014 ;
+    bio:partner person:ITIE_015 ;
+    bio:date "1573" .
+
+marriage:ITIE_M009 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_016 ;
+    bio:partner person:ITIE_017 .
+
+marriage:ITIE_M010 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_017 ;
+    bio:partner <https://man8rove.com/fr/profile/k5jikuhwc-jean-de-vacquey> .
+
+marriage:ITIE_M011 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_018 ;
+    bio:partner <https://man8rove.com/fr/profile/rtt12v6h-jean-jacques-de-spens> ;
+    bio:date "1618" .
+
+marriage:ITIE_M012 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_019 ;
+    bio:partner person:ITIE_018 ;
+    bio:date "1618" .
+
+marriage:ITIE_M013 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_020 ;
+    bio:partner person:ITIE_021 ;
+    bio:date "1623" .
+
+marriage:ITIE_M014 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_032 ;
+    bio:partner person:ITIE_033 ;
+    bio:date "1603" .
+
+marriage:ITIE_M016 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_035 ;
+    bio:partner person:ITIE_034 .
+
+marriage:ITIE_M017 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_038 ;
+    bio:partner person:ITIE_039 .
+
+marriage:ITIE_M018 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_040 ;
+    bio:partner person:ITIE_041 .
+
+marriage:ITIE_M019 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_042 ;
+    bio:partner person:ITIE_039 .
+
+marriage:ITIE_M020 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_044 ;
+    bio:partner <https://man8rove.com/fr/profile/7oj6klhwc-jean-de-saint-ours> ;
+    bio:date "1529" .
+
+marriage:ITIE_M021 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_045 ;
+    bio:partner person:ITIE_046 .
+
+marriage:ITIE_M022 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_047 ;
+    bio:partner <https://man8rove.com/fr/profile/zyf97ksc7-catherine-de-louppes> ;
+    bio:date "1602" .
+
+marriage:ITIE_M023 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_048 ;
+    bio:partner <https://man8rove.com/fr/profil/o88ykrwoa-jacques-de-lescure> .
+
+marriage:ITIE_M024 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_049 ;
+    bio:partner <https://man8rove.com/fr/profile/axv4prwoa-leonarde-alazard-de-goulard> .
+
+marriage:ITIE_M025 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_050 ;
+    bio:partner person:ITIE_053 ;
+    bio:date "1623" .
+
+marriage:ITIE_M026 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_051 ;
+    bio:partner person:ITIE_052 .
+
+marriage:ITIE_M027 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_054 ;
+    bio:partner person:ITIE_064 ;
+    bio:date "1637" .
+
+marriage:ITIE_M028 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_055 ;
+    bio:partner <https://man8rove.com/fr/profile/6mdmpm8d7-gabriel-jaubert-de-saint-gelais> ;
+    bio:date "1642" .
+
+marriage:ITIE_M029 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_056 ;
+    bio:partner <https://man8rove.com/fr/profile/znlx3isc7-catherine-de-lalanne> ;
+    bio:date "1638" .
+
+marriage:ITIE_M030 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_057 ;
+    bio:partner <https://man8rove.com/fr/profile/jyz3wjnop-francois-de-faudoas> ;
+    bio:date "1673" .
+
+marriage:ITIE_M031 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_059 ;
+    bio:partner <https://man8rove.com/fr/profile/kbifmb9sp-francois-le-comte> ;
+    bio:date "1568" .
+
+marriage:ITIE_M032 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_062 ;
+    bio:partner person:ITIE_063 ;
+    bio:date "1605" .
+
+marriage:ITIE_M033 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_067 ;
+    bio:partner <https://man8rove.com/fr/profile/8i6j7tona-finette-de-pellegrue> ;
+    bio:date "1574" .
+
+marriage:ITIE_M034 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_068 ;
+    bio:partner <https://man8rove.com/fr/profil/xduddg1xc-marie-de-vignau> ;
+    bio:date "1609" .
+
+marriage:ITIE_M035 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_069 ;
+    bio:partner person:ITIE_070 ;
+    bio:date "1642" .
+
+marriage:ITIE_M036 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_071 ;
+    bio:partner person:ITIE_072 ;
+    bio:date "1604" .
+
+marriage:ITIE_M037 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_073 ;
+    bio:partner <https://man8rove.com/fr/profile/1j5q1pvvc-catherine-de-gourgue> .
+
+marriage:ITIE_M038 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_074 ;
+    bio:partner <https://man8rove.com/fr/profile/v3377vm7l-therese-de-pichon> .
+
+marriage:ITIE_M039 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_079 ;
+    bio:partner person:ITIE_080 ;
+    bio:date "1640" .
+
+marriage:ITIE_M040 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_087 ;
+    bio:partner <https://man8rove.com/fr/profile/nz49unsam-francoise-de-gascq> ;
+    bio:date "1570" .
+
+marriage:ITIE_M041 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_088 ;
+    bio:partner person:ITIE_089 ;
+    bio:date "1597" .
+
+marriage:ITIE_M042 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_090 ;
+    bio:partner person:ITIE_089 ;
+    bio:date "1614" .
+
+marriage:ITIE_M043 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_094 ;
+    bio:partner person:ITIE_095 .
+
+marriage:ITIE_M044 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_096 ;
+    bio:partner <https://man8rove.com/fr/profile/vzw3kqt6-charlotte-de-gontaut-biron> ;
+    bio:date "1577" .
+
+marriage:ITIE_M045 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_097 ;
+    bio:partner <https://man8rove.com/fr/profile/g26rmtcoa-louise-de-levis> ;
+    bio:date "1619" .
+
+marriage:ITIE_M046 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_100 ;
+    bio:partner <https://man8rove.com/fr/profile/m0qzxidd7-henri-de-bonneval> ;
+    bio:date "1594" .
+
+marriage:ITIE_M047 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_101 ;
+    bio:partner <https://man8rove.com/fr/profile/szvscim07-philippe-de-pierrebuffiere> ;
+    bio:date "1581" .
+
+marriage:ITIE_M048 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_102 ;
+    bio:partner person:ITIE_103 ;
+    bio:date "1613" .
+
+marriage:ITIE_M049 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_104 ;
+    bio:partner person:ITIE_105 ;
+    bio:date "1673" .
+
+marriage:ITIE_M050 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_105 ;
+    bio:partner <https://man8rove.com/fr/profile/6ckgozlzk-marguerite-de-ferrieres-de-sauveboeuf> ;
+    bio:date "1664" .
+
+marriage:ITIE_M051 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_106 ;
+    bio:partner person:ITIE_107 ;
+    bio:date "1642" .
+
+marriage:ITIE_M052 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_108 ;
+    bio:partner <https://man8rove.com/fr/profile/60782et6-charlotte-rouxel> ;
+    bio:date "1610" .
+
+marriage:ITIE_M053 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_110 ;
+    bio:partner person:ITIE_107 ;
+    bio:date "1654" .
+
+marriage:ITIE_M054 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_111 ;
+    bio:partner person:ITIE_112 ;
+    bio:date "1633" .
+
+marriage:ITIE_M055 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_113 ;
+    bio:partner <https://man8rove.com/fr/profile/cidcadak-lucrece-de-jay> ;
+    bio:date "1626" .
+
+marriage:ITIE_M056 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_114 ;
+    bio:partner <https://man8rove.com/fr/profile/vfblt9dq-philibert-de-carbonnieres> ;
+    bio:date "1659" .
+
+marriage:ITIE_M057 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_115 ;
+    bio:partner <https://man8rove.com/fr/profile/h5t8b59tm-jeanne-d'harambure> ;
+    bio:date "1619" .
+
+marriage:ITIE_M058 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_116 ;
+    bio:partner <https://man8rove.com/fr/profile/jk36w59tm-marie-le-breton> ;
+    bio:date "1644" .
+
+marriage:ITIE_M059 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_117 ;
+    bio:partner person:ITIE_116 ;
+    bio:date "1595" .
+
+marriage:ITIE_M060 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_118 ;
+    bio:partner person:ITIE_117 ;
+    bio:date "1625" .
+
+marriage:ITIE_M061 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_119 ;
+    bio:partner person:ITIE_120 .
+
+marriage:ITIE_M062 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_123 ;
+    bio:partner <https://man8rove.com/fr/profile/exr1e751n-madeleine-de-jalais> ;
+    bio:date "1614" .
+
+marriage:ITIE_M063 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_124 ;
+    bio:partner person:ITIE_125 ;
+    bio:date "1632" .
+
+marriage:ITIE_M064 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_126 ;
+    bio:partner person:ITIE_127 ;
+    bio:date "[1609]" .
+
+marriage:ITIE_M065 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_128 ;
+    bio:partner person:ITIE_127 ;
+    bio:date "[1625]" .
+
+marriage:ITIE_M066 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_130 ;
+    bio:partner person:ITIE_131 .
+
+marriage:ITIE_M067 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_133 ;
+    bio:partner <https://gw.geneanet.org/pierfit?lang=en&p=jacquette&n=de+l+isle> .
+
+marriage:ITIE_M068 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_137 ;
+    bio:partner <https://man8rove.com/fr/profile/c0pygcsc7-catherine-de-benoist> ;
+    bio:date "1605" .
+
+marriage:ITIE_M069 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_138 ;
+    bio:partner person:ITIE_141 ;
+    bio:date "1634" .
+
+marriage:ITIE_M070 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_142 ;
+    bio:partner person:ITIE_143 ;
+    bio:date "1621" .
+
+marriage:ITIE_M071 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_145 ;
+    bio:partner <https://man8rove.com/fr/profile/gjajwugh-jeanne-de-bourdeilles> ;
+    bio:date "1575" .
+
+marriage:ITIE_M072 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_146 ;
+    bio:partner <https://man8rove.com/fr/profile/q7plxczk-marguerite-audier> .
+
+marriage:ITIE_M073 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_152 ;
+    bio:partner <https://man8rove.com/fr/profile/zfjb627y6-isabeau-de-lalanne> .
+
+marriage:ITIE_M074 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_153 ;
+    bio:partner <https://man8rove.com/fr/profile/ypdk8rcw7-marie-d'alesme> .
+
+marriage:ITIE_M075 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_154 ;
+    bio:partner person:ITIE_162 .
+
+marriage:ITIE_M076 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_155 ;
+    bio:partner person:ITIE_161 .
+
+marriage:ITIE_M077 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_156 ;
+    bio:partner person:ITIE_154 .
+
+marriage:ITIE_M078 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_157 ;
+    bio:partner person:ITIE_160 .
+
+marriage:ITIE_M079 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_159 ;
+    bio:partner person:ITIE_161 .
+
+marriage:ITIE_M080 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_166 ;
+    bio:partner person:ITIE_167 .
+
+marriage:ITIE_M081 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_199 ;
+    bio:partner person:ITIE_200 .
+
+marriage:ITIE_M082 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_217 ;
+    bio:partner person:ITIE_218 .
+
+marriage:ITIE_M083 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_221 ;
+    bio:partner person:ITIE_222 .
+
+marriage:ITIE_M084 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_228 ;
+    bio:partner person:ITIE_229 ;
+    bio:date "1647" .
+
+marriage:ITIE_M085 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_230 ;
+    bio:partner <https://man8rove.com/fr/profile/ngdxxvy9p-marie-maledent> ;
+    bio:date "1682" .
+
+marriage:ITIE_M086 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_237 ;
+    bio:partner person:ITIE_238 .
+
+marriage:ITIE_M087 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_239 ;
+    bio:partner person:ITIE_240 ;
+    bio:date "1643" .
+
+marriage:ITIE_M088 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_241 ;
+    bio:partner <https://man8rove.com/fr/profile/h8g9yh6xc-peyronne-de-minvielle> ;
+    bio:date "1640" .
+
+marriage:ITIE_M089 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_242 ;
+    bio:partner <https://man8rove.com/fr/profile/jymi08ic3-gabrielle-angelique-de-bourbon-verneuil> ;
+    bio:date "1622" .
+
+marriage:ITIE_M090 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_247 ;
+    bio:partner person:ITIE_248 .
+
+marriage:ITIE_M091 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_259 ;
+    bio:partner <https://man8rove.com/fr/profile/pn65ncll-marie-charron> ;
+    bio:date "1648" .
+
+marriage:ITIE_M092 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_260 ;
+    bio:partner person:ITIE_261 ;
+    bio:date "1660" .
+
+marriage:ITIE_M093 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_283 ;
+    bio:partner person:ITIE_286 .
+
+marriage:ITIE_M094 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_284 ;
+    bio:partner person:ITIE_287 .
+
+marriage:ITIE_M095 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_285 ;
+    bio:partner person:ITIE_288 .
+
+marriage:ITIE_M096 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_296 ;
+    bio:partner <https://man8rove.com/fr/profile/704vo4nx6-francoise-de-la-tour-d'yviers> ;
+    bio:date "1600" .
+
+marriage:ITIE_M097 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_297 ;
+    bio:partner <https://man8rove.com/fr/profile/gho7jkdao-suzanne-de-la-cheze> ;
+    bio:date "1627" .
+
+marriage:ITIE_M098 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_299 ;
+    bio:partner person:ITIE_300 .
+
+marriage:ITIE_M099 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_304 ;
+    bio:partner person:ITIE_305 .
+
+marriage:ITIE_M100 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_313 ;
+    bio:partner <https://man8rove.com/fr/profile/fu9p7agz8-louise-du-vigier> ;
+    bio:date "1652" .
+
+marriage:ITIE_M101 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_317 ;
+    bio:partner <https://man8rove.com/fr/profile/roy1mpvuk-julienne-vilain> .
+
+marriage:ITIE_M102 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_321 ;
+    bio:partner person:ITIE_322 .
+
+marriage:ITIE_M103 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_324 ;
+    bio:partner person:ITIE_325 .
+
+marriage:ITIE_M104 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_326 ;
+    bio:partner person:ITIE_327 .
+
+marriage:ITIE_M105 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_342 ;
+    bio:partner person:ITIE_343 .
+
+marriage:ITIE_M106 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_005 ;
+    bio:partner <https://man8rove.com/fr/profile/pe832jvu7-anne-du-duc> ;
+    bio:date "1623" .
+
+marriage:ITIE_M107 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_044 ;
+    bio:partner <https://man8rove.com/fr/profile/bjrdg9cxc-robert-charles-de-vacquey> .
+
+marriage:ITIE_M108 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_047 ;
+    bio:partner person:ITIE_048 ;
+    bio:date "1621" .
+
+marriage:ITIE_M109 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_055 ;
+    bio:partner person:ITIE_056 ;
+    bio:date "1646" .
+
+marriage:ITIE_M110 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_071 ;
+    bio:partner <https://man8rove.com/fr/profile/ynj6nu5xc-olive-d'aulede-de-lestonnac> ;
+    bio:date "1617" .
+
+marriage:ITIE_M111 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_094 ;
+    bio:partner person:ITIE_097 ;
+    bio:date "après 1655" .
+
+marriage:ITIE_M112 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_101 ;
+    bio:partner <https://man8rove.com/fr/profile/uqeixogc7-abel-de-pierrebuffiere> ;
+    bio:date "1588" .
+
+marriage:ITIE_M113 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_137 ;
+    bio:partner <https://man8rove.com/fr/profile/00gen7kz6-marguerite-de-sevin> ;
+    bio:date "1633" .
+
+marriage:ITIE_M114 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_296 ;
+    bio:partner <https://man8rove.com/fr/profile/b947r77y6-isabelle-de-sainte-maure> ;
+    bio:date "1641" .

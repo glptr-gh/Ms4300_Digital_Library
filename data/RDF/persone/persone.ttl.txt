@@ -1,0 +1,63 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <http://schema.org/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix aat: <http://vocab.getty.edu/page/aat/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix bio: <http://purl.org/vocab/bio/0.1/> .
+@prefix marriage: <https://glptr-gh.github.io/Ms4300/matrimoni/> .
+@prefix person: <https://glptr-gh.github.io/Ms4300/persone/> .
+
+marriage:ITIE_M001 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_001 ;
+    bio:partner person:ITIE_002 ;
+    bio:date "1596" .
+
+marriage:ITIE_M002 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_004 ;
+    bio:partner person:ITIE_005 ;
+    bio:date "1586" .
+
+marriage:ITIE_M003 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_005 ;
+    bio:partner <https://man8rove.com/fr/profile/pe832jvu7-anne-du-duc> ;
+    bio:date "1623" .
+
+marriage:ITIE_M004 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_006 ;
+    bio:partner person:ITIE_007 ;
+    bio:date "1632" .
+
+marriage:ITIE_M005 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_009 ;
+    bio:partner <https://man8rove.com/fr/profil/t9alcs8d7-gasparde-de-la-chatre> ;
+    bio:date "1603" .
+
+marriage:ITIE_M006 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_010 ;
+    bio:partner person:ITIE_144 ;
+    bio:date "1654" .
+
+marriage:ITIE_M007 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_011 ;
+    bio:partner person:ITIE_065 ;
+    bio:date "1667" .
+
+marriage:ITIE_M008 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_012 ;
+    bio:partner person:ITIE_013 ;
+    bio:date "1600" .
+
+marriage:ITIE_M009 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_014 ;
+    bio:partner person:ITIE_015 ;
+    bio:date "1573" .
+
+marriage:ITIE_M010 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_016 ;
+    bio:partner person:ITIE_017 .
+
+marriage:ITIE_M011 rdf:type bio:Marriage ;
+    bio:partner person:ITIE_017 ;
+    bio:partner <https://man8rove.com/fr/profil/k5jikuhwc-jean-de-vacquey> .
+
+
