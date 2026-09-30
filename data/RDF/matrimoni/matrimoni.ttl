@@ -4,8 +4,8 @@
 @prefix aat: <http://vocab.getty.edu/page/aat/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix bio: <http://purl.org/vocab/bio/0.1/> .
-@prefix marriage: <https://glptr-gh.github.io/Ms4300/data/RDF/matrimoni/> .
-@prefix person: <https://glptr-gh.github.io/Ms4300/data/RDF/persone/> .
+@prefix marriage: <https://glptr-gh.github.io/Ms4300_Digital_Library/data/RDF/matrimoni/> .
+@prefix person: <https://glptr-gh.github.io/Ms4300_Digital_Library/data/RDF/persone/> .
 
 marriage:ITIE_M001 rdf:type bio:Marriage ;
     bio:partner person:ITIE_001 ;
