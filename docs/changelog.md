@@ -11,8 +11,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - [matrimoni Script](https://github.com/glptr-gh/Ms4300_Digital_Library/blob/main/data/scripts/matrimoni.py), made to accelerate the creation of RDF triples after having some of them correctly written by myself.
 
 ### **Fixed**
-(to fill in)
-
 
 ### **Changed**
 - Deleted and reuploaded the [portraits Directory](https://github.com/glptr-gh/Ms4300_Digital_Library/blob/main/data/images/dipinti) and the [coats of arms Directory](https://github.com/glptr-gh/Ms4300_Digital_Library/blob/main/data/images/stemmi) in order to update more easily the names of the images, wrongly uploaded with an incorrect style of naming
