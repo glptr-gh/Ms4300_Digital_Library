@@ -5,17 +5,18 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## **[v.0.2]**
 
 ### **Added**
-- [matrimoni Directory]([https://github.com/glptr-gh/Ms4300_Digital_Library/blob/main/data/RDF/matrimoni](https://github.com/glptr-gh/Ms4300_Digital_Library/blob/main/data/RDF/matrimoni), with its [README.md](https://github.com/glptr-gh/Ms4300_Digital_Library/blob/main/data/RDF/matrimoni/README.md) and the file in `.ttl` of the [marriages](https://github.com/glptr-gh/Ms4300_Digital_Library/blob/main/data/RDF/matrimoni/matrimoni.ttl)
-- [persone Directory](), and its [README.md]() and the draft of the `.ttl` file that will describe de personal informations of the people mentioned in the archive
-- [images_Directory], the [README.md]() and the files in `.jpg` of the portraits and those in `.png` of the coats of arms: both will be used to complete the LODs for the people mentioned in the documents;
-- [matrimoni Script](), made to accelerate the creation of RDF triples after having some of them correctly written by myself.
+- [matrimoni Directory](https://github.com/glptr-gh/Ms4300_Digital_Library/blob/main/data/RDF/matrimoni), with its [README.md](https://github.com/glptr-gh/Ms4300_Digital_Library/blob/main/data/RDF/matrimoni/README.md) and the file in `.ttl` of the [marriages](https://github.com/glptr-gh/Ms4300_Digital_Library/blob/main/data/RDF/matrimoni/matrimoni.ttl)
+- [persone Directory](https://github.com/glptr-gh/Ms4300_Digital_Library/blob/main/data/RDF/persone), and its [README.md](https://github.com/glptr-gh/Ms4300_Digital_Library/blob/main/data/RDF/persone/README.md) and the draft of the `.ttl` file that will describe de [personal informations](https://github.com/glptr-gh/Ms4300_Digital_Library/blob/main/data/RDF/persone/persone.ttl) of the people mentioned in the archive
+- [images_Directory](https://github.com/glptr-gh/Ms4300_Digital_Library/blob/main/data/images), the [README.md](https://github.com/glptr-gh/Ms4300_Digital_Library/blob/main/data/images/README.md) and the directories for the files in `.jpg` of the [portraits](https://github.com/glptr-gh/Ms4300_Digital_Library/blob/main/data/images/dipinti) and those in `.png` of [the coats of arms](https://github.com/glptr-gh/Ms4300_Digital_Library/blob/main/data/images/stemmi): both will be used to complete the LODs for the people mentioned in the documents;
+- [matrimoni Script](https://github.com/glptr-gh/Ms4300_Digital_Library/blob/main/data/scripts/matrimoni.py), made to accelerate the creation of RDF triples after having some of them correctly written by myself.
 
 ### **Fixed**
 (to fill in)
 
 
 ### **Changed**
-The name of the images, wrongly uploaded with an incorrect style of naming
+- Modified the names of the images, wrongly uploaded with an incorrect style of naming
+- Updated this ChangeLog
 
 
 ## **[v.0.1]**
