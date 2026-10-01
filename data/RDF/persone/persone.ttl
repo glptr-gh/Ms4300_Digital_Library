@@ -7,7 +7,7 @@
 @prefix marriage: <https://glptr-gh.github.io/Ms4300_Digital_Library/data/RDF/matrimoni/> .
 @prefix person: <https://glptr-gh.github.io/Ms4300_Digital_Library/data/RDF/persone/> .
 @prefix coat: <https://glptr-gh.github.io/Ms4300_Digital_Library/data/images/stemmi/> .
-@prefix potrait: <https://glptr-gh.github.io/Ms4300_Digital_Library/data/images/dipinti/> .
+@prefix potrait: <https://glptr-gh.github.io/Ms4300_Digital_Library/data/images/ritratti/> .
 
 person:ITIE_001 rdf:type schema:Person ;
     bio:father <https://man8rove.com/fr/profil/2pg246xoa-guyot-pot> ;
