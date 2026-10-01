@@ -1,1 +1,2 @@
-
+#_Persone_Directory_
+This directory is made for the storage of the file in `.ttl` of the LODs for the people mentioned in the documents of the ITIE-LATRESNE archive, with all the personal informations gathered during the project, such as birth date, death date, job, social role, siblings, parents, family coat of arms, portraits. The main source of this file is the `.csv` file stored in the [CSV directory](https://github.com/glptr-gh/Ms4300_Digital_Library/tree/main/data/CSV). 
