@@ -18,6 +18,7 @@ The main sources of this project are the documents of the archive called MS4300 
 - Python
 - XML-TEI
 - IIIF
+- RDF/Turtle
 
 ## Changelog
 Available in [changelog](https://github.com/glptr-gh/Ms4300_Digital_Library/blob/main/docs/changelog.md)
