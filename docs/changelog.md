@@ -8,6 +8,27 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - [documenti_Directory]() to contain, in the end, the Turtle files of every document studied during the staying in Bordeaux. When added, the Directory is empty, because more phases have to be completetd before starting the creation of the main file in `.ttl` format. Inside this Directory, nevertheless, two other directories has been added short after:
 - [generi_Directory](), to store the Turtle file of the genres of documents found in the three series of the Itié-Latresne archive, made in order to create digital items for the main Turtle file of the documents;
 - [inventario_Directory](), which contains the Turtle file with the description of the ancient inventory of the archive, made in XIX century. This is now a digital object with its URI.
+**NOTE**: the Turtle files added got the following namespaces:
+dct:       http://purl.org/dc/terms/
+schema:    http://schema.org/
+foaf:      http://xmlns.com/foaf/0.1/
+aat:       http://vocab.getty.edu/aat/    (corretto: il vecchio prefisso puntava a una pagina, non ai termini)
+rdf:       http://www.w3.org/1999/02/22-rdf-syntax-ns#
+rdfs:      http://www.w3.org/2000/01/rdf-schema#
+xsd:       http://www.w3.org/2001/XMLSchema#
+skos:      http://www.w3.org/2004/02/skos/core#
+bio:       http://purl.org/vocab/bio/0.1/
+rico:      https://www.ica.org/standards/RiC/ontology#
+ric-rst:   https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#
+marriage:  https://glptr-gh.github.io/Ms4300_Digital_Library/data/RDF/matrimoni/
+person:    https://glptr-gh.github.io/Ms4300_Digital_Library/data/RDF/persone/
+coat:      https://glptr-gh.github.io/Ms4300_Digital_Library/data/images/stemmi/
+portrait:  https://glptr-gh.github.io/Ms4300_Digital_Library/data/images/ritratti/
+fonds:     https://glptr-gh.github.io/Ms4300_Digital_Library/data/RDF/documenti/fondo/
+series:    https://glptr-gh.github.io/Ms4300_Digital_Library/data/RDF/documenti/buste/
+document:  https://glptr-gh.github.io/Ms4300_Digital_Library/data/RDF/documenti/
+genre:     https://glptr-gh.github.io/Ms4300_Digital_Library/data/RDF/documenti/generi/
+inventory: https://glptr-gh.github.io/Ms4300_Digital_Library/data/RDF/documenti/inventario/
 
 ## **[v.0.2]**
 
