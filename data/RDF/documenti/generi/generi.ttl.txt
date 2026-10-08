@@ -1,0 +1,81 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <http://schema.org/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix aat: <http://vocab.getty.edu/aat/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix bio: <http://purl.org/vocab/bio/0.1/> .
+@prefix rico: <https://www.ica.org/standards/RiC/ontology#> .
+@prefix ric-rst: <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#> .
+@prefix genre: <https://glptr-gh.github.io/Ms4300_Digital_Library/data/RDF/documenti/generi/> .
+
+genre:acte_notarie rdf:type rico:DocumentaryFormType ;
+    rdfs:label "acte notarié"@fr ;
+    rdfs:label "atto notarile"@it ;
+    skos:exactMatch aat:300164785 . 
+
+genre:acte_judiciaire rdf:type rico:DocumentaryFormType ;
+    rdfs:label "acte judiciaire"@fr ;
+    rdfs:label "atto giudiziario"@it ;
+    skos:exactMatch aat:300027850 .
+
+genre:arret rdf:type rico:DocumentaryFormType ;
+    rdfs:label "arrêt"@fr ;
+    rdfs:label "sentenza"@it ;
+    skos:exactMatch aat:300410326 .
+
+genre:contrat rdf:type rico:DocumentaryFormType ;
+    rdfs:label "contrat"@fr ;
+    rdfs:label "contratto"@it ;
+    skos:exactMatch aat:300027649 .
+
+genre:dessin rdf:type rico:DocumentaryFormType ;
+    rdfs:label "dessin"@fr ;
+    rdfs:label "disegno"@it ;
+    skos:exactMatch aat:300054196 .
+
+genre:discours rdf:type rico:DocumentaryFormType ;
+    rdfs:label "discours"@fr ;
+    rdfs:label "discorso"@it ;
+    skos:exactMatch aat:300026671 .
+
+genre:chemise rdf:type rico:DocumentaryFormType ;
+    rdfs:label "chemise"@fr ;
+    rdfs:label "camicia"@it ;
+    skos:closeMatch aat:300423000 ;
+    skos:scopeNote "Documento archivistico inserito tra i reperti nel XIX secolo per tenere uniti documenti sciolti ma probabilmente una volta uniti mediante chiodi o lacci, riportante solamente la data dei documenti contenuti all'interno."@it .
+
+genre:inventaire rdf:type rico:DocumentaryFormType ;
+    rdfs:label "inventaire"@fr ;
+    rdfs:label "inventario"@it ;
+    skos:exactMatch aat:300027045 .
+
+genre:lettre rdf:type rico:DocumentaryFormType ;
+    rdfs:label "lettre"@fr ;
+    rdfs:label "lettera"@it ;
+    skos:exactMatch aat:300026879 .
+
+genre:lettre_de_change rdf:type rico:DocumentaryFormType ;
+    rdfs:label "lettre de change"@fr ;
+    rdfs:label "cambiale"@it ;
+    skos:exactMatch aat:300193972 .
+
+genre:memoire rdf:type rico:DocumentaryFormType ;
+    rdfs:label "mémoire"@fr ;
+    rdfs:label "memoria"@it ;
+    skos:altLabel "memo"@it ;
+    skos:altLabel "resoconto"@it ;
+    skos:scopeNote "Categoria ampia: comprende promemoria, resoconti di dispute familiari o di processi in corso ed elenchi di spese sostenute."@it ;
+    skos:closeMatch aat:300026906 .
+
+genre:quittance rdf:type rico:DocumentaryFormType ;
+    rdfs:label "quittance"@fr ;
+    rdfs:label "ricevuta"@it ;
+    skos:exactMatch aat:300027573 .
+
+genre:supplique rdf:type rico:DocumentaryFormType ;
+    rdfs:label "supplique"@fr ;
+    rdfs:label "supplica"@it ;
+    skos:closeMatch aat:300188791 .
