@@ -2,6 +2,13 @@
 All notable changes to this project are documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## **[v0.3]**
+
+### **Added**
+- [documenti_Directory]() to contain, in the end, the Turtle files of every document studied during the staying in Bordeaux. When added, the Directory is empty, because more phases have to be completetd before starting the creation of the main file in `.ttl` format. Inside this Directory, nevertheless, two other directories has been added short after:
+- [generi_Directory](), to store the Turtle file of the genres of documents found in the three series of the Itié-Latresne archive, made in order to create digital items for the main Turtle file of the documents;
+- [inventario_Directory](), which contains the Turtle file with the description of the ancient inventory of the archive, made in XIX century. This is now a digital object with its URI.
+
 ## **[v.0.2]**
 
 ### **Added**
